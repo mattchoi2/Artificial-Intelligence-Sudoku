@@ -1,0 +1,34 @@
+CS1622;Introduction to Compiler Design;1;0;0;V. Petrucci;1;HP,SEC
+CS1632;Software Quality Assurance;2;0;0;D. Ahn;2;
+CS1640;Bionformatics Software Design;1;0;0;L. Nunes;1;
+CS1645;Introduction to High Performance Computing Systems;1;0;0;K. Kosta;1;HP
+CS1652;Data Communication and Computer Networks;1;0;0;J. Lange;1;HP,SEC
+CS1653;Applied Cryptography and Network Security;1;0;0;W. Garritson;1;SEC
+CS1656;Introduction to Data Science;1;0;1;A.Labrindis;1;DS,SEC
+CS1666;Principles of Computer Game Design and Implementation;1;0;0;N. Farnan;1;
+CS1674;Introduction to Computer Vision;1;0;0;A. Kovashka;;AI,DS
+CS1566;Introduction to Computer Graphics;1;0;0;T. Kosiyatrakul;1;
+CS1571;Introduction to Artificial Intelligence;1;0;0;E. Walker;1;AI,DS
+CS1621;Structure Programming Languages;1;0;0;Y. Zhang;1;
+CS1555;Database Management Systems;1;0;2;P. Chrysanthis;1;BU,SE,SEC,DS
+CS1510;Algorithm Design;1;1;0;K. Pruhs;1;AI,SE
+CS1520;Programming Language for Web Applications;2;0;4;A. Hobaugh;2;
+CS1530;Software Engineering;2;0;0;S. Chang;2;BU,SE
+CS1541;Introduction to Computer Architecture;1;0;0;R. Melhem;1;HP
+CS1550;Introduction to Operating Systems; 3; 0; 2; S. Khattab,D. Mosse;2,1;
+CS1502;Formal Methods in Computer Science; 3;0;0;T.Kosiyatrakul,M.Bender;2,1;
+CS1501;Algorithm Implementation;5;2;0;J. Aroniz,W. Garrison,S. Khattab;2,1,2;
+CS0447;Computer Organization and Assembly Language;4;0;2;T.Kosiyatrakul,L. Nunes,J. Billingsley;1,2,1;
+CS0449;Introduction to Systems Software;4;0;2;J.Billingsly,V.Petrucci;2,2;
+CS0590;Social Implications of Computing Technology;2;0;0;P. Quinn,S. Wood;1,1;
+CS0445;Data Structures; 4;0;2;T. Hoffman,W. Garrison,K. Kosta; 1,2,1;
+CS0004;Introduction to Computer Programming-Basic;2;0;0;M. Devine;2;
+CS0007;Introduction to Computer Programming;5;0;2;J.Cooper, K.Bigrigg, S. Ellis;1,3,1;
+CS0008;Introduction to Computer Programming With Python;2;0;2;M. de Lima Barbosa;2;
+CS0010;Introduction to Computing for Systems Engineers;1;1;0;N. Farnan;1;
+CS0011;Introduction to Computing for Scientists;1;1;0;N. Farnan;1;
+CS0012;Introduction to Computing for the Humanities;1;1;0;N. Farnan;1;
+CS0134;Web Site Design and Development;2;0;0;O. Sherbinin, M. Bigrigg;1,1;
+CS0334;Intermediate Web Site Design and Development;1;0;0;P. DeNardis;1;
+CS0401;Intermediate Programming Using Java;5;2;0;T. Hoffman, J. Ramirez;3,2;
+CS0441;Discrete Structures for CS; 4; 0; 2; D. Bonidie, J. Wheeler;2,2;

@@ -1,0 +1,19 @@
+
+Output String:
+3241413213242413
+Runtime:		6.36
+Nodes created:		537588
+Max nodes in memory:	31
+==================
+Output String:
+4321213434121243
+Runtime:		2.12
+Nodes created:		234249
+Max nodes in memory:	28
+==================
+Output String:
+1342421324313124
+Runtime:		1.10
+Nodes created:		93630
+Max nodes in memory:	25
+==================
